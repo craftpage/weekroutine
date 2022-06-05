@@ -1,4 +1,4 @@
 # weekroutine
 一週間のルーチン管理アプリ
 
-Flutter　アプリのDartコードです改変自由
+FlutterアプリのDartコードです改変自由
